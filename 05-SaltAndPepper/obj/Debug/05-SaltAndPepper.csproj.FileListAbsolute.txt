@@ -1,0 +1,6 @@
+D:\_SoftUni\_Practical Exam\PracticalExam\05-SaltAndPepper\bin\Debug\05-SaltAndPepper.exe.config
+D:\_SoftUni\_Practical Exam\PracticalExam\05-SaltAndPepper\bin\Debug\05-SaltAndPepper.exe
+D:\_SoftUni\_Practical Exam\PracticalExam\05-SaltAndPepper\bin\Debug\05-SaltAndPepper.pdb
+D:\_SoftUni\_Practical Exam\PracticalExam\05-SaltAndPepper\obj\Debug\05-SaltAndPepper.csprojResolveAssemblyReference.cache
+D:\_SoftUni\_Practical Exam\PracticalExam\05-SaltAndPepper\obj\Debug\05-SaltAndPepper.exe
+D:\_SoftUni\_Practical Exam\PracticalExam\05-SaltAndPepper\obj\Debug\05-SaltAndPepper.pdb

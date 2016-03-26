@@ -1,0 +1,6 @@
+D:\_SoftUni\_Practical Exam\PracticalExam\03-FallenInLove\bin\Debug\03-FallenInLove.exe.config
+D:\_SoftUni\_Practical Exam\PracticalExam\03-FallenInLove\bin\Debug\03-FallenInLove.exe
+D:\_SoftUni\_Practical Exam\PracticalExam\03-FallenInLove\bin\Debug\03-FallenInLove.pdb
+D:\_SoftUni\_Practical Exam\PracticalExam\03-FallenInLove\obj\Debug\03-FallenInLove.csprojResolveAssemblyReference.cache
+D:\_SoftUni\_Practical Exam\PracticalExam\03-FallenInLove\obj\Debug\03-FallenInLove.exe
+D:\_SoftUni\_Practical Exam\PracticalExam\03-FallenInLove\obj\Debug\03-FallenInLove.pdb

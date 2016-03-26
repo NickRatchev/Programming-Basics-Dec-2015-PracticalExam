@@ -1,0 +1,6 @@
+D:\_SoftUni\_Practical Exam\PracticalExam\04-PassionDays\bin\Debug\04-PassionDays.exe.config
+D:\_SoftUni\_Practical Exam\PracticalExam\04-PassionDays\bin\Debug\04-PassionDays.exe
+D:\_SoftUni\_Practical Exam\PracticalExam\04-PassionDays\bin\Debug\04-PassionDays.pdb
+D:\_SoftUni\_Practical Exam\PracticalExam\04-PassionDays\obj\Debug\04-PassionDays.exe
+D:\_SoftUni\_Practical Exam\PracticalExam\04-PassionDays\obj\Debug\04-PassionDays.pdb
+D:\_SoftUni\_Practical Exam\PracticalExam\04-PassionDays\obj\Debug\04-PassionDays.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\_SoftUni\_Practical Exam\PracticalExam\01-HungryGarfield\bin\Debug\01-HungryGarfield.exe.config
+D:\_SoftUni\_Practical Exam\PracticalExam\01-HungryGarfield\bin\Debug\01-HungryGarfield.exe
+D:\_SoftUni\_Practical Exam\PracticalExam\01-HungryGarfield\bin\Debug\01-HungryGarfield.pdb
+D:\_SoftUni\_Practical Exam\PracticalExam\01-HungryGarfield\obj\Debug\01-HungryGarfield.csprojResolveAssemblyReference.cache
+D:\_SoftUni\_Practical Exam\PracticalExam\01-HungryGarfield\obj\Debug\01-HungryGarfield.exe
+D:\_SoftUni\_Practical Exam\PracticalExam\01-HungryGarfield\obj\Debug\01-HungryGarfield.pdb

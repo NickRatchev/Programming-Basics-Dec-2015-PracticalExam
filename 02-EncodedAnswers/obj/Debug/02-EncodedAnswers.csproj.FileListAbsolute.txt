@@ -1,0 +1,6 @@
+D:\_SoftUni\_Practical Exam\PracticalExam\02-EncodedAnswers\bin\Debug\02-EncodedAnswers.exe.config
+D:\_SoftUni\_Practical Exam\PracticalExam\02-EncodedAnswers\bin\Debug\02-EncodedAnswers.exe
+D:\_SoftUni\_Practical Exam\PracticalExam\02-EncodedAnswers\bin\Debug\02-EncodedAnswers.pdb
+D:\_SoftUni\_Practical Exam\PracticalExam\02-EncodedAnswers\obj\Debug\02-EncodedAnswers.exe
+D:\_SoftUni\_Practical Exam\PracticalExam\02-EncodedAnswers\obj\Debug\02-EncodedAnswers.pdb
+D:\_SoftUni\_Practical Exam\PracticalExam\02-EncodedAnswers\obj\Debug\02-EncodedAnswers.csprojResolveAssemblyReference.cache
